@@ -8,7 +8,7 @@ The main goal of my project was to create an e-Commerce pub/sub program where us
 
 # Framework Choice
  
-For this assignment, I chose to use the ZeroMQ framework for making my distributed system. I decided to implement a Pub/Sub system for the distributed computing component where the publishers act as providers of the items and subscriber are customers that access the items through subscribing to the publisher's items.
+For this assignment, I chose to use the Python-based edition of the ZeroMQ framework for making my distributed system. I decided to use a Pub/Sub system for the distributed computing component where the publishers act as providers of the items and subscriber are customers that access the items through subscribing to the publisher's items.
 
 # How to Run
 
